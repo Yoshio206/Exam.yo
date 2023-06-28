@@ -1,0 +1,7 @@
+alert ("Hello👋")
+alert ("Dahil exam mo bukas")
+alert ("goodluck")
+alert ("bobo ka pa naman")
+alert ('pag pumasa ka lilibre moko')
+alert ('pag hindi lilibre mo padin ako')
+alert ('yun lang😄')
